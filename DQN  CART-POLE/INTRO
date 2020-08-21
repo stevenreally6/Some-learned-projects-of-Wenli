@@ -1,0 +1,5 @@
+This is a basic process of deep learning, and computer calculates it again
+and again to learning policy which has optimal result. At each point in time, the
+agent (which can be thought of as the algorithm you wrote) chooses an action,
+and the environment returns the observation (Observation) and reward (Reward)
+of the last action
